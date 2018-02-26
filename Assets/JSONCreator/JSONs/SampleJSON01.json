@@ -1,0 +1,14 @@
+{
+	"Int" : 666,
+	"Float" : 0.9,
+	"String" : "Hello World",
+	"Bool" : false,
+	"Arr01" : [
+		13,
+		"Hello JSON"
+	],
+	"Obj01" : {
+		"Obj01_Float" : 18,
+		"Obj01_Bool" : true
+	}
+}
